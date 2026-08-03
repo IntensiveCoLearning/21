@@ -125,4 +125,12 @@
 | [Apricity0401](https://github.com/IntensiveCoLearning/21/blob/main/notes/294491579.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [fossildim](https://github.com/IntensiveCoLearning/21/blob/main/notes/121147660.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [brightheartma](https://github.com/IntensiveCoLearning/21/blob/main/notes/253285555.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [Abysssea](https://github.com/IntensiveCoLearning/21/blob/main/notes/10517240.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [shaoyanjun-syj](https://github.com/IntensiveCoLearning/21/blob/main/notes/190200312.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [booooodv](https://github.com/IntensiveCoLearning/21/blob/main/notes/35971518.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [meoniro-cloud](https://github.com/IntensiveCoLearning/21/blob/main/notes/312104048.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [starshipgo](https://github.com/IntensiveCoLearning/21/blob/main/notes/66821860.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [James1847](https://github.com/IntensiveCoLearning/21/blob/main/notes/29943599.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [WikiToTheMoon](https://github.com/IntensiveCoLearning/21/blob/main/notes/247623529.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [wodeche](https://github.com/IntensiveCoLearning/21/blob/main/notes/40746051.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
