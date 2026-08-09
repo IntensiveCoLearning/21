@@ -133,7 +133,7 @@
 | [meoniro-cloud](https://github.com/IntensiveCoLearning/21/blob/main/notes/312104048.md) | ⭕️ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [starshipgo](https://github.com/IntensiveCoLearning/21/blob/main/notes/66821860.md) | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [James1847](https://github.com/IntensiveCoLearning/21/blob/main/notes/29943599.md) | ⭕️ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [WikiToTheMoon](https://github.com/IntensiveCoLearning/21/blob/main/notes/247623529.md) | ⭕️ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [WikiToTheMoon](https://github.com/IntensiveCoLearning/21/blob/main/notes/247623529.md) | ⭕️ | ⭕️ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [wodeche](https://github.com/IntensiveCoLearning/21/blob/main/notes/40746051.md) | ⭕️ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [weicchan](https://github.com/IntensiveCoLearning/21/blob/main/notes/16357987.md) | ⭕️ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [q97531x](https://github.com/IntensiveCoLearning/21/blob/main/notes/9392845.md) | ⭕️ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
