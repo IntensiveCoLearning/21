@@ -161,7 +161,7 @@
 | [alianrock](https://github.com/IntensiveCoLearning/21/blob/main/notes/4676294.md) | ⭕️ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [hanghangdamowangfa-tech](https://github.com/IntensiveCoLearning/21/blob/main/notes/301989521.md) | ⭕️ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [zhucancan056-jpg](https://github.com/IntensiveCoLearning/21/blob/main/notes/313843838.md) | ⭕️ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [XGe711](https://github.com/IntensiveCoLearning/21/blob/main/notes/252039326.md) | ⭕️ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [XGe711](https://github.com/IntensiveCoLearning/21/blob/main/notes/252039326.md) | ⭕️ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Jizhixing-Kieran](https://github.com/IntensiveCoLearning/21/blob/main/notes/240270824.md) | ✅ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [bufrr](https://github.com/IntensiveCoLearning/21/blob/main/notes/3174573.md) | ✅ | ⭕️ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Machine-Lin](https://github.com/IntensiveCoLearning/21/blob/main/notes/190171908.md) | ⭕️ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
