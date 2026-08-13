@@ -154,7 +154,7 @@
 | [buroanusn](https://github.com/IntensiveCoLearning/21/blob/main/notes/157085063.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [brucexu-eth](https://github.com/IntensiveCoLearning/21/blob/main/notes/95468177.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Eggego](https://github.com/IntensiveCoLearning/21/blob/main/notes/7501644.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [ry928330](https://github.com/IntensiveCoLearning/21/blob/main/notes/10793210.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [ry928330](https://github.com/IntensiveCoLearning/21/blob/main/notes/10793210.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [BareerahBenjamin](https://github.com/IntensiveCoLearning/21/blob/main/notes/99247545.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [SpongeMa](https://github.com/IntensiveCoLearning/21/blob/main/notes/33110873.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Camilla0619](https://github.com/IntensiveCoLearning/21/blob/main/notes/51827723.md) | ✅ | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
