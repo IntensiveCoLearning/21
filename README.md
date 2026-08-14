@@ -117,7 +117,7 @@
 | [meixingyu001-code](https://github.com/IntensiveCoLearning/21/blob/main/notes/222609677.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [muxin-web3](https://github.com/IntensiveCoLearning/21/blob/main/notes/100744989.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [zh0006xu](https://github.com/IntensiveCoLearning/21/blob/main/notes/121480996.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [tt11285](https://github.com/IntensiveCoLearning/21/blob/main/notes/259574020.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [tt11285](https://github.com/IntensiveCoLearning/21/blob/main/notes/259574020.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [dongshujun4994](https://github.com/IntensiveCoLearning/21/blob/main/notes/283928697.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [lunateng](https://github.com/IntensiveCoLearning/21/blob/main/notes/190500278.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Eddie-534](https://github.com/IntensiveCoLearning/21/blob/main/notes/252993649.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -125,8 +125,8 @@
 | [Apricity0401](https://github.com/IntensiveCoLearning/21/blob/main/notes/294491579.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [fossildim](https://github.com/IntensiveCoLearning/21/blob/main/notes/121147660.md) | ⭕️ | ⭕️ | ✅ | ✅ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [brightheartma](https://github.com/IntensiveCoLearning/21/blob/main/notes/253285555.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [HalfmanZ](https://github.com/IntensiveCoLearning/21/blob/main/notes/231850317.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [LittleBellyGo](https://github.com/IntensiveCoLearning/21/blob/main/notes/295503931.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [HalfmanZ](https://github.com/IntensiveCoLearning/21/blob/main/notes/231850317.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [LittleBellyGo](https://github.com/IntensiveCoLearning/21/blob/main/notes/295503931.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Abysssea](https://github.com/IntensiveCoLearning/21/blob/main/notes/10517240.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [shaoyanjun-syj](https://github.com/IntensiveCoLearning/21/blob/main/notes/190200312.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [booooodv](https://github.com/IntensiveCoLearning/21/blob/main/notes/35971518.md) | ✅ | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -145,7 +145,7 @@
 | [hedengyao241-spec](https://github.com/IntensiveCoLearning/21/blob/main/notes/312749723.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [explorerlily](https://github.com/IntensiveCoLearning/21/blob/main/notes/238141394.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [codejarrown](https://github.com/IntensiveCoLearning/21/blob/main/notes/45428677.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [canfly1019](https://github.com/IntensiveCoLearning/21/blob/main/notes/41057528.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [canfly1019](https://github.com/IntensiveCoLearning/21/blob/main/notes/41057528.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [MatianMaoL](https://github.com/IntensiveCoLearning/21/blob/main/notes/221221480.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [0xmigueleth](https://github.com/IntensiveCoLearning/21/blob/main/notes/194504130.md) | ⭕️ | ✅ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [jhavie](https://github.com/IntensiveCoLearning/21/blob/main/notes/30374119.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -154,14 +154,14 @@
 | [buroanusn](https://github.com/IntensiveCoLearning/21/blob/main/notes/157085063.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [brucexu-eth](https://github.com/IntensiveCoLearning/21/blob/main/notes/95468177.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Eggego](https://github.com/IntensiveCoLearning/21/blob/main/notes/7501644.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [ry928330](https://github.com/IntensiveCoLearning/21/blob/main/notes/10793210.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [ry928330](https://github.com/IntensiveCoLearning/21/blob/main/notes/10793210.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [BareerahBenjamin](https://github.com/IntensiveCoLearning/21/blob/main/notes/99247545.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [SpongeMa](https://github.com/IntensiveCoLearning/21/blob/main/notes/33110873.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [SpongeMa](https://github.com/IntensiveCoLearning/21/blob/main/notes/33110873.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Camilla0619](https://github.com/IntensiveCoLearning/21/blob/main/notes/51827723.md) | ✅ | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [alianrock](https://github.com/IntensiveCoLearning/21/blob/main/notes/4676294.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [hanghangdamowangfa-tech](https://github.com/IntensiveCoLearning/21/blob/main/notes/301989521.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [zhucancan056-jpg](https://github.com/IntensiveCoLearning/21/blob/main/notes/313843838.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [XGe711](https://github.com/IntensiveCoLearning/21/blob/main/notes/252039326.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [XGe711](https://github.com/IntensiveCoLearning/21/blob/main/notes/252039326.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Jizhixing-Kieran](https://github.com/IntensiveCoLearning/21/blob/main/notes/240270824.md) | ✅ | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [bufrr](https://github.com/IntensiveCoLearning/21/blob/main/notes/3174573.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Machine-Lin](https://github.com/IntensiveCoLearning/21/blob/main/notes/190171908.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
