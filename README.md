@@ -126,7 +126,7 @@
 | [fossildim](https://github.com/IntensiveCoLearning/21/blob/main/notes/121147660.md) | ⭕️ | ⭕️ | ✅ | ✅ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [brightheartma](https://github.com/IntensiveCoLearning/21/blob/main/notes/253285555.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [HalfmanZ](https://github.com/IntensiveCoLearning/21/blob/main/notes/231850317.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [LittleBellyGo](https://github.com/IntensiveCoLearning/21/blob/main/notes/295503931.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [LittleBellyGo](https://github.com/IntensiveCoLearning/21/blob/main/notes/295503931.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Abysssea](https://github.com/IntensiveCoLearning/21/blob/main/notes/10517240.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [shaoyanjun-syj](https://github.com/IntensiveCoLearning/21/blob/main/notes/190200312.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [booooodv](https://github.com/IntensiveCoLearning/21/blob/main/notes/35971518.md) | ✅ | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
