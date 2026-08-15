@@ -116,7 +116,7 @@
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [meixingyu001-code](https://github.com/IntensiveCoLearning/21/blob/main/notes/222609677.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [muxin-web3](https://github.com/IntensiveCoLearning/21/blob/main/notes/100744989.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [zh0006xu](https://github.com/IntensiveCoLearning/21/blob/main/notes/121480996.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [zh0006xu](https://github.com/IntensiveCoLearning/21/blob/main/notes/121480996.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |
 | [tt11285](https://github.com/IntensiveCoLearning/21/blob/main/notes/259574020.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |
 | [dongshujun4994](https://github.com/IntensiveCoLearning/21/blob/main/notes/283928697.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [lunateng](https://github.com/IntensiveCoLearning/21/blob/main/notes/190500278.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |   |
