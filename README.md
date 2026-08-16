@@ -119,7 +119,7 @@
 | [zh0006xu](https://github.com/IntensiveCoLearning/21/blob/main/notes/121480996.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |
 | [tt11285](https://github.com/IntensiveCoLearning/21/blob/main/notes/259574020.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |
 | [dongshujun4994](https://github.com/IntensiveCoLearning/21/blob/main/notes/283928697.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   |   |   |   |   |   |   |   |   |   |   |   |
-| [lunateng](https://github.com/IntensiveCoLearning/21/blob/main/notes/190500278.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |
+| [lunateng](https://github.com/IntensiveCoLearning/21/blob/main/notes/190500278.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |
 | [Eddie-534](https://github.com/IntensiveCoLearning/21/blob/main/notes/252993649.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [peewee92](https://github.com/IntensiveCoLearning/21/blob/main/notes/20059253.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Apricity0401](https://github.com/IntensiveCoLearning/21/blob/main/notes/294491579.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |   |   |
