@@ -156,7 +156,7 @@
 | [Eggego](https://github.com/IntensiveCoLearning/21/blob/main/notes/7501644.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [ry928330](https://github.com/IntensiveCoLearning/21/blob/main/notes/10793210.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ❌ |   |   |   |   |   |   |   |   |   |   |
 | [BareerahBenjamin](https://github.com/IntensiveCoLearning/21/blob/main/notes/99247545.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |
-| [SpongeMa](https://github.com/IntensiveCoLearning/21/blob/main/notes/33110873.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ |   |   |   |   |   |   |   |   |   |   |
+| [SpongeMa](https://github.com/IntensiveCoLearning/21/blob/main/notes/33110873.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ |   |   |   |   |   |   |   |   |   |
 | [Camilla0619](https://github.com/IntensiveCoLearning/21/blob/main/notes/51827723.md) | ✅ | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [alianrock](https://github.com/IntensiveCoLearning/21/blob/main/notes/4676294.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [hanghangdamowangfa-tech](https://github.com/IntensiveCoLearning/21/blob/main/notes/301989521.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -166,5 +166,5 @@
 | [bufrr](https://github.com/IntensiveCoLearning/21/blob/main/notes/3174573.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |
 | [Machine-Lin](https://github.com/IntensiveCoLearning/21/blob/main/notes/190171908.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [tengjskk-spec](https://github.com/IntensiveCoLearning/21/blob/main/notes/251606334.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [justskinny5](https://github.com/IntensiveCoLearning/21/blob/main/notes/17610879.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |   |
+| [justskinny5](https://github.com/IntensiveCoLearning/21/blob/main/notes/17610879.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
