@@ -163,7 +163,7 @@
 | [zhucancan056-jpg](https://github.com/IntensiveCoLearning/21/blob/main/notes/313843838.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [XGe711](https://github.com/IntensiveCoLearning/21/blob/main/notes/252039326.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ❌ |   |   |   |   |   |   |   |   |
 | [Jizhixing-Kieran](https://github.com/IntensiveCoLearning/21/blob/main/notes/240270824.md) | ✅ | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [bufrr](https://github.com/IntensiveCoLearning/21/blob/main/notes/3174573.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ |   |   |   |   |
+| [bufrr](https://github.com/IntensiveCoLearning/21/blob/main/notes/3174573.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ |   |   |   |
 | [Machine-Lin](https://github.com/IntensiveCoLearning/21/blob/main/notes/190171908.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [tengjskk-spec](https://github.com/IntensiveCoLearning/21/blob/main/notes/251606334.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [justskinny5](https://github.com/IntensiveCoLearning/21/blob/main/notes/17610879.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |   |   |
