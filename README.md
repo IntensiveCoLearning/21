@@ -122,7 +122,7 @@
 | [lunateng](https://github.com/IntensiveCoLearning/21/blob/main/notes/190500278.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |
 | [Eddie-534](https://github.com/IntensiveCoLearning/21/blob/main/notes/252993649.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [peewee92](https://github.com/IntensiveCoLearning/21/blob/main/notes/20059253.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [Apricity0401](https://github.com/IntensiveCoLearning/21/blob/main/notes/294491579.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |   |   |
+| [Apricity0401](https://github.com/IntensiveCoLearning/21/blob/main/notes/294491579.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ |   |
 | [fossildim](https://github.com/IntensiveCoLearning/21/blob/main/notes/121147660.md) | ⭕️ | ⭕️ | ✅ | ✅ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [brightheartma](https://github.com/IntensiveCoLearning/21/blob/main/notes/253285555.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |
 | [HalfmanZ](https://github.com/IntensiveCoLearning/21/blob/main/notes/231850317.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ❌ |   |   |   |   |   |   |   |
